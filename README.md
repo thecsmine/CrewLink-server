@@ -36,7 +36,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This is the relay server for CrewLink, an Among Us proximity voice chat program. I am currently hosting a server at `http://54.193.94.35:9736/`, but if you want a more reliable option I would suggest to deploy this repository yourself.
+This is the relay server for CrewLink, an Among Us proximity voice chat program. I am currently hosting a server at `http://54.193.94.35:9736/` or at `https://crewl.ink/`, but if you want a more reliable option I would suggest to deploy this repository yourself.
 
 ## Deploy to Heroku
 
